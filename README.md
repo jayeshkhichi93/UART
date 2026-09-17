@@ -22,3 +22,8 @@ iverilog -o uart.out uart.v tx.v rx.v baud_generater.v uart_tb.v
 
 # Run the simulation
 vvp uart.out
+```
+
+#Gtkwave Output
+
+<img width="1630" height="265" alt="image" src="https://github.com/user-attachments/assets/00d33ec1-aecd-4900-9916-1afb716850e4" />
